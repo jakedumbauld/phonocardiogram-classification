@@ -1,0 +1,9 @@
+*.npy
+*.png
+*.csv
+*.tsv
+*.hea
+*.pdf
+*.zip
+the-circor-digiscope-phonocardiogram-dataset-1.0.1/*
+.DS_Store
