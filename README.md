@@ -38,7 +38,9 @@ The 9 seconday notebooks are enclosed in the directory '6 - Model Search':
 	- 6 - 4K MFCC, with patient, convolutional
 	- 7 - 1K signal, no patient, LSTM
 	- 8 - 1K signal, with patient, LSTM
-Each of the models was then trained on the data and saved. To save you the VERY long runtime of these notebooks, the saved models can be downloaded at the following link: https://drive.google.com/drive/folders/1FVCCA5WK00BlfszISuJY7lcnMFNEotEH?usp=sharing.
+Each of the models was then trained on the data and saved. 
+
+To save you the VERY long runtime of these notebooks, the saved models can be downloaded at the following link: https://drive.google.com/drive/folders/1FVCCA5WK00BlfszISuJY7lcnMFNEotEH?usp=sharing.
 
 Returning to the primary notebooks: 
 
