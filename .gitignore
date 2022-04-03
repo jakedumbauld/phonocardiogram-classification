@@ -5,7 +5,7 @@
 *.hea
 *.pdf
 *.zip
-.ipynb_checkpoints/*
+Notebooks/.ipynb_checkpoints/*
 the-circor-digiscope-phonocardiogram-dataset-1.0.1/*
 .DS_Store
 kerastune_searches/*
