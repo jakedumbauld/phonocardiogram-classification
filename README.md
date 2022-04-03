@@ -16,6 +16,8 @@ REQUIREMENTS
 ------------
 Please create a conda environment using the enclosed yml. Also, please run the enclosed bash script in a dir of your choosing to create the necessary directories.
 
+Additionally, in each of the notebooks please update the `root_path` variable at the top of the notebook to the path of the parent directory that will contain all the files from this project.
+
 SUBMISSION CONTENT
 ------------------
 Juptyer Notebooks: There are 6 primary notebooks and 9 secondary noteboooks enclosed. The primary notebooks are as follows:
