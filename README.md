@@ -44,9 +44,9 @@ To save you the VERY long runtime of these notebooks, the saved models can be do
 
 Returning to the primary notebooks: 
 
-- '7 - Comparing and Evaluating Networks': This notebook trained each of the best models (not including LSTM for reasons discussed in the technical report) 30 times in an environment with unconstrained randomness and gathered information about their performance to generate visuals and insights into each model.
+- '7 - Comparing and Evaluating Networks': This notebook trained each of the best models (not including LSTM for reasons discussed within the technical report) 30 times in an environment with unconstrained randomness and gathered information about their performance to generate visuals and insights into each model. It also includes interpretation of the results as well as comparisons between each model.
 
 
 Technical Report:
 
-The enclosed pdf is a technical report containing findings and my own thoughts on the project as a whole. To get a more complete understanding of the decisions made throughout the project, I encourage you to read it!
+The enclosed pdf is a technical report containing detailed info about the motivation, process I went through, findings and my own thoughts on the project as a whole. To get a more complete understanding of the decisions made throughout the project, I encourage you to read it!
