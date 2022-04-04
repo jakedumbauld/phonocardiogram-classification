@@ -1,14 +1,13 @@
 *.npy
-*.png
-*.csv
-*.tsv
-*.hea
-*.pdf
+entropy-23-00667.pdf
 *.zip
-.ipynb_checkpoints/*
-the-circor-digiscope-phonocardiogram-dataset-1.0.1/*
 .DS_Store
-kerastune_searches/*
-neural_nets/*
 Phonocardiogram Classification.docx
 .Rhistory
+
+.ipynb_checkpoints/*
+the-circor-digiscope-phonocardiogram-dataset-1.0.1/*
+neural_nets/*
+kerastune_searches/*
+scripts/*
+Deliverables/*

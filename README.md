@@ -17,7 +17,9 @@ REQUIREMENTS
 ------------
 Please create a conda environment using the enclosed yml. 
 
-Additionally, in each of the notebooks please update the `root_path` variable at the top of the notebook to the path of the parent directory that will contain all the files from this project.
+Additionally, download the models at https://drive.google.com/drive/folders/1FVCCA5WK00BlfszISuJY7lcnMFNEotEH?usp=sharing to save you the VERY long runtime of the model search ntoebooks.
+
+Finally, in each of the notebooks please update the `root_path` variable at the top of the notebook to the path of the parent directory that will contain all the files from this project.
 
 SUBMISSION CONTENT
 ------------------
@@ -41,15 +43,15 @@ The 9 seconday notebooks are enclosed in the directory '6 - Model Search':
 	- 6 - 4K MFCC, with patient, convolutional
 	- 7 - 1K signal, no patient, LSTM
 	- 8 - 1K signal, with patient, LSTM
-Each of the models was then trained on the data and saved. 
-
-To save you the VERY long runtime of these notebooks, the saved models can be downloaded at the following link: https://drive.google.com/drive/folders/1FVCCA5WK00BlfszISuJY7lcnMFNEotEH?usp=sharing.
+Each of the models was then trained on the data and saved. I encourage you to use the saved models provided at the above link, as these notebooks take quite a bit of time to run. 
 
 Returning to the primary notebooks: 
 
 - '7 - Comparing and Evaluating Networks': This notebook trained each of the best models (not including LSTM for reasons discussed within the technical report) 30 times in an environment with unconstrained randomness and gathered information about their performance to generate visuals and insights into each model. It also includes interpretation of the results as well as comparisons between each model.
 
 
-Technical Report:
+Ancillary & Supporting Materials
+First and Foremost - Technical Report:
+	The enclosed pdf is a technical report containing detailed info about the motivation, process I went through, findings and my own thoughts on the project as a whole. To get a more complete understanding of the decisions made throughout the project, I encourage you to read it!
 
-The enclosed pdf is a technical report containing detailed info about the motivation, process I went through, findings and my own thoughts on the project as a whole. To get a more complete understanding of the decisions made throughout the project, I encourage you to read it!
+All .png files and .csv files generated in '7 - Comparing and Evaluating Networks' were included so that the first half of the notebook evaluating the models doesn't have to be run - it takes QUITE a while. 
